@@ -1,10 +1,14 @@
 # Age Checker
-This is the simple python program that checks:
-- If a person can vote
-- If a person cannot vote
+This is the simple python program that checks whether a person can vote or not.
+## Features
+- checks age
+- Tels if eligible to vote
+  ### How to run
+  1. Open terminal
+  2. Run: python age_checker.py
+  ## Example output
+  Enter age:18
+  you can vote
 
-  ## How it works
-  User enters age and program gives output.
-
-  ## Language Used
-  Python
+  ## Author
+  Jyotishna chauhan
